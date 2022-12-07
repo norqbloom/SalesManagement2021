@@ -1586,5 +1586,9 @@ namespace SalesManagement2021
             dataGridViewDsp.Refresh();
         }
 
+        private void panel5_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
